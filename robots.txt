@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-wpc2ff.salamduit.online/sitemap.xml
